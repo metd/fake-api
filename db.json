@@ -3,6 +3,10 @@
     {
       "book_id": 1,
       "title": "Lost in the lift"
+    },
+    {
+      "book_id": 2,
+      "title": "Lost in the lift dddd"
     }
   ],
   "posts": [
