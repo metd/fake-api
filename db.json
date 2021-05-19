@@ -1,4 +1,10 @@
 {
+  "trending_now":[
+    {
+      "book_id": 1,
+      "title": "Lost in the lift"
+    },
+],
   "posts": [
     {
       "id": 1,
